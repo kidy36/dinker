@@ -1,0 +1,68 @@
+.navbar {
+				background-image: linear-gradient(to bottom right, #e60029, #e64600);    
+}
+.navbar-brand > *, .inline > * {
+				display: inline;
+}
+
+.main-ig, .text-des {
+				text-align: center;
+				padding: 5ch;
+}
+
+.dinker-app-image img {
+				max-width: 100%;
+}
+
+.about {
+				padding: 5ch;
+				background-image: linear-gradient(to bottom right, #e60029, #e64600);    
+				color: white;
+}
+		    
+.qna {
+				text-align: center;
+}
+
+.ratings {
+				padding: 5ch;
+				background: #3c2bff;
+				color: white;			
+}
+
+.good {
+				text-align: center;
+}
+
+.num, .ten {
+				display: inline;
+}
+
+.ratings-num {
+				text-align: center;
+				background: white;
+				border-radius: 4px;
+				color: black;
+}
+
+.out-of {
+				font-size: 15px;
+				text-align: center;
+				color: gray;
+				margin-top: 1ch;
+}
+
+.download {
+				background: #40f5ff;
+				padding: 5ch;
+}
+
+.dl {
+				text-align: center;
+}
+
+.zad {
+				color: white;
+				padding: 5ch;
+				text-align: center;
+}
